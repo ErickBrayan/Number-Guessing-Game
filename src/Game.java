@@ -105,7 +105,7 @@ public class Game {
                 """);
     }
     private static String messageDifficulty(String difficulty) {
-        return "Great! You have selected the hard " + difficulty + "difficulty level.\n" +
+        return "Great! You have selected the hard " + difficulty + " difficulty level.\n" +
                 "Let's start the game!";
     }
 }
